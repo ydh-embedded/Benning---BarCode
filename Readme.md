@@ -13,7 +13,10 @@ Dieses Tool erstellt Barcode-Etiketten nach dem Vorbild der Benning-Geräte-Etik
 
 Die folgenden Python-Bibliotheken werden benötigt:
 ```bash
-pip install python-barcode pillow reportlab
+pip install python-pillow reportlab
+
+pip install --user python-barcode --break-system-packages
+
 ```
 
 ## Verwendung
