@@ -17,6 +17,8 @@ pip install python-pillow reportlab
 
 pip install --user python-barcode --break-system-packages
 
+python -c "import barcode, PIL, reportlab; print('✅ Alle Pakete verfügbar!')"
+
 ```
 
 ## Verwendung
