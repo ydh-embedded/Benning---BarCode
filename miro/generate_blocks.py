@@ -94,7 +94,7 @@ def main():
     # Welchen Block möchten Sie erstellen?
     BLOCK_NUMMER = 1          # Block 1, 2, 3, 4, etc.
     BLOCK_GROESSE = 100       # Wie viele Etiketten pro Block? (meist 100)
-    PREFIX = ""               # Optional: z.B. "Miro - "
+    PREFIX = "Miro - "               # Optional: z.B. "Miro - "
     
     # ═══════════════════════════════════════════════════════════════════
     
