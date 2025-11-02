@@ -176,7 +176,7 @@ pip install python-barcode pillow reportlab
 - Drucken Sie in höherer Qualität
 - Verwenden Sie einen besseren Drucker/höhere DPI
 
-## Kompatibilität
+## Kompatibilität 
 
 - **Barcode-Typ**: Code 128 (kompatibel mit Benning ST 750/755/760)
 - **Scanner**: Funktioniert mit allen Standard-Barcode-Scannern
