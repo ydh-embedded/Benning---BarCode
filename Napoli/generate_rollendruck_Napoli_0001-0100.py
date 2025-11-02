@@ -114,16 +114,46 @@ def main():
     print("=" * 70)
     print()
     
+
+
+
+
+
+
     # ═══════════════════════════════════════════════════════════════════
+    #SECTION - Einstellung
     # KONFIGURATION - Kunde: Napoli
     # ═══════════════════════════════════════════════════════════════════
     
-    START_NUMMER = 1          # Erste Gerätenummer
+    START_NUMMER = 0          # Erste Gerätenummer
     END_NUMMER = 100          # Letzte Gerätenummer (500 Etiketten)
-    PREFIX = "Napoli Berlin - "        # Präfix vor Nummer
+    PREFIX = "Napoli Weimar - "        # Präfix vor Nummer
     OUTPUT_FILE = "rollendruck_Napoli_0001-0100.pdf"
     
     # ═══════════════════════════════════════════════════════════════════
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     print("Konfiguration:")
     print(f"  Kunde: Napoli")
